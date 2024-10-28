@@ -107,4 +107,6 @@ In order to get HTML reports with screenshot, install mocha-awesome reporting
 Simply follow the necessary steps from the official website https://www.npmjs.com/package/cypress-mochawesome-reporter
 Upon installation you get the appropriate HTML and screenshot reports in your project folder.
 
-Here is sample html report [Uploading index.html…]()
+Here is sample html report screenshot
+
+![SauceLabReport](https://github.com/user-attachments/assets/a8eb5fe0-8510-4ade-8a13-90a7368fb871)
