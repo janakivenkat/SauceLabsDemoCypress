@@ -106,3 +106,5 @@ npx cypress run
 In order to get HTML reports with screenshot, install mocha-awesome reporting 
 Simply follow the necessary steps from the official website https://www.npmjs.com/package/cypress-mochawesome-reporter
 Upon installation you get the appropriate HTML and screenshot reports in your project folder.
+
+Here is sample html report [Uploading index.html…]()
